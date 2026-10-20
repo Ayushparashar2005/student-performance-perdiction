@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated data and model artifacts
+data/*.csv
+models/*.joblib
+
+# Generated reports (keep folder placeholder)
+reports/*.png
+reports/*.json
+
+# Jupyter
+.ipynb_checkpoints/

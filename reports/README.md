@@ -1,0 +1,1 @@
+Generated charts and JSON summaries are written here after running `python src/train.py`. These outputs are intentionally ignored by Git by default; include selected generated outputs in a commit only if useful, and label them as synthetic demonstrations.
